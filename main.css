@@ -1,0 +1,50 @@
+.box {
+  background-color: rgb(95, 158, 160);
+}
+.box1 {
+  background-color: rgb(95, 158, 160);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex: 1;
+}
+.box1_1 {
+  width: 25%;
+}
+.box1_3 {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+.logo {
+  margin-left: 25px;
+  width: 50%;
+  font-size: 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.fb {
+  color: rgb(52, 152, 219);
+}
+.gg {
+  color: rgb(231, 76, 60);
+}
+.tw {
+  color: rgb(44, 62, 80);
+}
+.in {
+  color: rgb(52, 152, 219);
+}
+.box2 {
+  height: 50px;
+  color: white;
+  background-color: rgb(95, 158, 160);
+  text-align: center;
+  border-top: 1px solid rgb(26, 0, 0);
+  padding-top: 30px;
+}
+strong {
+  color: red;
+}
